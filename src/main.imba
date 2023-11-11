@@ -25,8 +25,7 @@ tag app
 				<input id="my-drawer" type="checkbox" .drawer-toggle />
 				<div .drawer-content>
 					<navbar>
-					<home_page route='/'>
-					<counter route='/counter-page'>
+					<counter route='/'>
 					<about route='/about'>
 					<barchart route='/barchart'>
 					<basicchart route='/basicchart'>
